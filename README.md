@@ -63,7 +63,7 @@ Soy un estudiante bilingüe (**inglés** y **español**) con sólidas habilidade
 
 Siempre estoy buscando oportunidades para aprender y colaborar en proyectos emocionantes. Si tienes una idea, una propuesta o simplemente quieres intercambiar conocimientos, ¡no dudes en contactarme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pedroza-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/daniel-pedroza-6097943a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Pedroza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-pedroza-6097943a1)
 
 ---
 
